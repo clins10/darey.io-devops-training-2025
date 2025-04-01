@@ -19,8 +19,9 @@
 
 #### *screenshots of Accounts Created*
 
+
 GitHub Account
-[github](/Tech-Environ-Setup/img/6.github-acct.png)
+![github](/Tech-Environ-Setup/img/6.github-acct.png)
 
 AWS Account
 ![aws](/Tech-Environ-Setup/img/7.AWS-acct.png)
